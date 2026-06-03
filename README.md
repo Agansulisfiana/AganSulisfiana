@@ -59,15 +59,11 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Agansulisfiana&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agansulisfiana&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agansulisfiana&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
@@ -114,9 +110,9 @@ Corporate website redesign with modern UI and responsive layout.
 
 > Snake animation akan muncul setelah GitHub Action berhasil dibuat.
 
-```md
-![Snake animation](https://github.com/Agansulisfiana/Agansulisfiana/blob/output/github-contribution-grid-snake.svg)
-```
+<p align="center">
+  <img src="https://github.com/Agansulisfiana/Agansulisfiana/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
