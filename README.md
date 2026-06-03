@@ -16,8 +16,13 @@
 
 ## Featured Projects
 🚀 POS Kasir Web App
-🚀 Personal Portfolio Website
-🚀 PT. RIS Website
+🔗 https://agansulisfiana.github.io/pos-kasir/
+
+🚀 Personal Portfolio
+🔗 https://agansulisfiana.github.io/
+
+🚀 PT RIS Website
+🔗 https://ptris.co.id/
 
 ## Currently Learning
 📚 Backend Development (Node.js)
