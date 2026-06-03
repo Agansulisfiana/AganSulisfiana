@@ -108,8 +108,6 @@ Corporate website redesign with modern UI and responsive layout.
 
 ## 📈 Contribution Activity
 
-> Snake animation akan muncul setelah GitHub Action berhasil dibuat.
-
 <p align="center">
   <img src="https://github.com/Agansulisfiana/Agansulisfiana/blob/output/github-contribution-grid-snake.svg" />
 </p>
