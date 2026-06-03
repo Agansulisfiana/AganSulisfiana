@@ -69,7 +69,7 @@
 
 ## 🔥 Current Focus
 
-'''bash
+```bash
 Learning:
 ├── Backend Development (Node.js)
 ├── REST API Integration
