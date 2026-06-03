@@ -126,7 +126,7 @@ Corporate website redesign with modern UI and responsive layout.
 
 ## 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/agan-sulisfiana-5239a4192">
+<a href="www.linkedin.com/in/agan-it-support">
     <img src="https://img.shields.io/badge/LinkedIn-Agan%20Sulisfiana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
