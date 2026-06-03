@@ -1,5 +1,25 @@
-# Welcome to GitHub Desktop!
+# Hi, I'm Agan Sulisfiana 👋
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+💻 IT Support Specialist
+🔧 Hardware & Printer Support
+🌐 Web Development Enthusiast
+🎨 UI/UX Learner
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Git & GitHub
+- Figma
+- Canva
+
+## Featured Projects
+🚀 POS Kasir Web App
+🚀 Personal Portfolio Website
+🚀 PTRIS Website Redesign
+
+## Currently Learning
+📚 Backend Development (Node.js)
+📚 UI/UX Design
+📚 API Integration
