@@ -17,7 +17,7 @@
 ## Featured Projects
 🚀 POS Kasir Web App
 🚀 Personal Portfolio Website
-🚀 PTRIS Website Redesign
+🚀 PT. RIS Website
 
 ## Currently Learning
 📚 Backend Development (Node.js)
