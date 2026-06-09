@@ -4,7 +4,9 @@
 
 ### IT Support Specialist • Deployment Engineer • Web Development Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=Agansulisfiana&label=Profile%20Views&color=0066CC&style=flat" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Agansulisfiana&theme=github-dark-blue&hide_border=true" />
+</p>
 
 </div>
 
@@ -30,10 +32,10 @@
 
 ## ⚡ Tech Stack
 
-<p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Agansulisfiana&theme=flat&no-frame=true&row=1&column=6" />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,html,css,js,nodejs,git,github,vscode,figma,docker,linux" />
+  </a>
 </p>
 
 ### IT Infrastructure
@@ -65,17 +67,14 @@ Corporate website redesign with modern UI and responsive layout.
 
 🔗 https://ptris.co.id/
 
----
 
-## 📊 GitHub Stats
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agansulisfiana&theme=tokyo-night&hide_border=true" />
+</p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Agansulisfiana&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agansulisfiana&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Agansulisfiana&theme=tokyonight&hide_border=true" />
+</p> -->
 
 ---
 
