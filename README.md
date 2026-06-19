@@ -61,7 +61,7 @@ Professional portfolio website showcasing technical experience and projects.
 
 🔗 https://agansulisfiana.github.io/
 
-### 🏢 PTRIS Website Redesign
+### 🏢 PT. RIS Website Redesign
 
 Corporate website redesign with modern UI and responsive layout.
 
