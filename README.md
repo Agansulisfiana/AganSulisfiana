@@ -2,124 +2,231 @@
 
 # 👋 Hi, I'm Agan Sulisfiana
 
-### IT Support Specialist • Deployment Engineer • Web Development Enthusiast
+### IT Infrastructure Engineer • Deployment Specialist • Web Development Enthusiast
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Agansulisfiana&theme=github-dark-blue&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Reliable+IT+Infrastructure;Deployment+Engineer;Hardware+%26+Network+Specialist;Web+Application+Developer;Always+Learning+New+Technology" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Agansulisfiana&style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/followers/Agansulisfiana?style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/stars/Agansulisfiana?affiliations=OWNER&style=for-the-badge&color=58A6FF"/>
+
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💻 About Me
 
-💼 IT Support professional with experience in:
+I'm an **IT Infrastructure Engineer** passionate about building reliable systems, solving technical problems, and creating software that improves daily operations.
 
-* ADM (Anjungan Dukcapil Mandiri) Deployment & Maintenance
-* Fargo Printer Support & Troubleshooting
-* Digital Signage Support
-* Hardware & Software Troubleshooting
-* Network Support
-* Technical Documentation
-* Web Application Development
+My professional experience combines **IT Infrastructure**, **Deployment**, **Networking**, **Hardware Support**, and **Web Development**, allowing me to bridge operational technology with modern software solutions.
 
-🌱 Currently learning:
-
-`Node.js` • `REST API` • `Docker` • `Ubuntu Server` • `Nginx` • `System Automation`
+Outside of work, I enjoy learning backend technologies, automating repetitive tasks, and building applications that solve real-world problems.
 
 ---
 
-## ⚡ Tech Stack
+# 🚀 What I Do
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,html,css,js,nodejs,git,github,vscode,figma,docker,linux" />
-  </a>
-</p>
+🖥️ Deploy and maintain enterprise IT infrastructure
 
-### IT Infrastructure
+🌐 Support networking and business-critical systems
 
-![Windows](https://img.shields.io/badge/Windows%20Administration-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/Hardware%20Support-6C63FF?style=for-the-badge)
-![Printer](https://img.shields.io/badge/Fargo%20Printer%20Support-009688?style=for-the-badge)
+🔧 Troubleshoot hardware and software efficiently
 
----
+🖨️ Maintain Fargo HDP card printer systems
 
-## 🚀 Featured Projects
+📺 Deploy Digital Signage solutions
 
-### 🛒 POS Kasir Web Application
+💻 Develop modern internal web applications
 
-Modern web-based cashier application with inventory management and reporting.
+📄 Create technical documentation
 
-🔗 https://agansulisfiana.github.io/pos-kasir/
-
-### 🌐 Personal Portfolio
-
-Professional portfolio website showcasing technical experience and projects.
-
-🔗 https://agansulisfiana.github.io/
-
-### 🏢 PT. RIS Website Redesign
-
-Corporate website redesign with modern UI and responsive layout.
-
-🔗 https://ptris.co.id/
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agansulisfiana&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Agansulisfiana&theme=tokyonight&hide_border=true" />
-</p> -->
+⚙️ Improve workflow through automation
 
 ---
 
-## 🔥 Current Focus
+# 🌱 Currently Learning
 
 ```text
-IT Infrastructure
-├── Windows Administration
-├── Hardware Troubleshooting
-├── Network Support
-├── Printer Support
-└── System Maintenance
-
-Development
+Backend Development
 ├── Node.js
 ├── REST API
+├── Authentication
+├── Express.js
+└── Database Design
+
+Infrastructure
 ├── Docker
 ├── Ubuntu Server
+├── Nginx
+├── Linux Administration
 └── System Automation
+
+Future Goals
+├── CI/CD
+├── Cloud Computing
+├── Monitoring
+└── Infrastructure as Code
 ```
 
 ---
 
-## 📈 Contribution Activity
+# ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agansulisfiana&theme=github-compact&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Agansulisfiana/Agansulisfiana/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,github,vscode,figma&perline=8"/>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,bash&perline=5"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🛠 Professional Expertise
 
-<p align="left">
+| Area | Experience |
+|:-----------------------------|:---------------------------|
+| Windows Administration | ⭐⭐⭐⭐⭐ |
+| Hardware Troubleshooting | ⭐⭐⭐⭐⭐ |
+| IT Deployment | ⭐⭐⭐⭐⭐ |
+| Printer Support (Fargo HDP) | ⭐⭐⭐⭐⭐ |
+| Networking | ⭐⭐⭐⭐☆ |
+| Digital Signage | ⭐⭐⭐⭐☆ |
+| Web Development | ⭐⭐⭐⭐☆ |
+| Backend Development | ⭐⭐⭐☆☆ |
+| Linux Administration | ⭐⭐⭐☆☆ |
+| Docker | ⭐⭐⭐☆☆ |
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 POS Kasir
+
+Modern Point of Sale application designed for small businesses.
+
+### Features
+
+- Inventory Management
+- Sales Report
+- Daily / Monthly Report
+- Receipt Generator
+- Responsive Design
+
+🔗 https://agansulisfiana.github.io/pos-kasir/
+
+---
+
+## 🌐 Personal Portfolio
+
+Professional portfolio website showcasing my experience, projects, and technical skills.
+
+🔗 https://agansulisfiana.github.io/
+
+---
+
+## 🏢 PTRIS Website
+
+Corporate website redesign focused on modern UI, responsiveness, and improved user experience.
+
+🔗 https://ptris.co.id/
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Agansulisfiana&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agansulisfiana&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Agansulisfiana&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agansulisfiana&theme=github-compact&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github.com/Agansulisfiana/Agansulisfiana/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Roadmap
+
+```text
+█████████████████████████████████████████
+
+✔ Improve Node.js
+
+✔ Build Production Ready Applications
+
+✔ Learn Docker
+
+✔ Linux Administration
+
+✔ Infrastructure Automation
+
+⬜ CI/CD
+
+⬜ Cloud Computing
+
+⬜ Monitoring
+
+⬜ Kubernetes
+
+⬜ DevOps
+
+█████████████████████████████████████████
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/agan-sulisfiana-5239a4192">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://agansulisfiana.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:agansulisfiana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -128,6 +235,14 @@ Development
 
 <div align="center">
 
-### 💡 Technology is best when it empowers people.
+## 💙 Philosophy
+
+> *"Technology should simplify work, solve real problems, and empower people."*
+
+---
+
+⭐ **Thank you for visiting my GitHub profile!**
+
+If you find my projects helpful, don't forget to leave a ⭐
 
 </div>
